@@ -1,4 +1,4 @@
-mitchronning.github.io
-======================
+ronningpt.github.com
+====================
 
-Ronning Physical Therapy website.
+Website for ronningpt.
