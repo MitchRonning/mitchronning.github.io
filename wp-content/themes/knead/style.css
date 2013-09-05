@@ -290,7 +290,7 @@ a.action-link:hover{color: #404B58}
 	
 	/*------------------------------*/
 	/*- PORTFOLIO SLIDER -----------*/
-	.portfolio-slider{display: block; position: relative; max-width: 100%px; overflow: hidden;}
+	.portfolio-slider{display: block; position: relative; max-width: 100%; overflow: hidden;}
 	.portfolio-slider ul{left: 0px; width: 99999px;  position: relative;}
 	.portfolio-slider li{float: left; width: 100%;}
 	.portfolio-slider img{display: block; max-width: 100%; margin: auto;}
